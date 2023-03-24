@@ -26,7 +26,7 @@ break;
 }
 } if(f==1)
 System.out.println("Not Symmetric");
-9
+
 else
 System.out.print(" Symmetric");
 }
